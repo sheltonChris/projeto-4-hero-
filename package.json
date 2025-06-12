@@ -1,0 +1,28 @@
+{
+  "name": "projeto-4-hero-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp watch",
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheltonChris/projeto-4-hero-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheltonChris/projeto-4-hero-/issues"
+  },
+  "homepage": "https://github.com/sheltonChris/projeto-4-hero-#readme",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.89.2"
+  }
+}
