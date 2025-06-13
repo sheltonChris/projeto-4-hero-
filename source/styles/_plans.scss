@@ -7,10 +7,19 @@
         text-align: center;
     }
 
+    .button{
+        margin-top: 2vw;
+        margin-bottom: 8px;
+    }
+
     &__list {
         margin-top: 50px;
         display: flex;
         justify-content: space-around;
+
+        @media (max-width:768px) {
+            display: block;
+        }
 
         &__item {
             text-align: center;
