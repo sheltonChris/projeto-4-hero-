@@ -15,6 +15,8 @@ document.addEventListener('DOMContentLoaded', function(){
         }
     })
 
+    
+
     function escondeElementosHeader(){
         const header = document.querySelector('header');
 
